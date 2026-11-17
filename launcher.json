@@ -1,0 +1,20 @@
+{
+  "launcherVersion": "11.02",
+  "maintenance": false,
+  "maintenanceMessage": "На сервере проводятся технические работы",
+  "autoRefreshDefault": true,
+  "refreshIntervalSeconds": 30,
+  "animationsEnabled": true,
+  "soundsEnabled": false,
+  "language": "ru",
+  "support": {
+    "telegram": "https://t.me/Holirussia",
+    "website": "https://t.me/+gRd-avyhUnQ1MjJi",
+    "forum": "https://t.me/Holirussia",
+    "technicalSupport": "https://t.me/+gRd-avyhUnQ1MjJi"
+  },
+  "manifestUrl": "https://cdn.yankyzzrp.ru/client/manifest.json",
+  "cacheBaseUrl": "https://cdn.yankyzzrp.ru/",
+  "newsUrl": "https://cdn.yankyzzrp.ru/client/News.json",
+  "modpacksCatalogUrl": "https://cdn.yankyzzrp.ru/client/sborka.json"
+}

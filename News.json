@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "АКЦИЯ X2",
+    "description": "Удвоенные пополнения на весь месяц",
+    "date": "11.09.2026",
+    "pinned": true,
+    "imageUrl": "https://www.dropbox.com/scl/fi/76fqe3ca877t7rxal00yb/yankyzz_cars_sunset_1x1.png?rlkey=phgbalhjfaii884jv1sqnx742&st=arqoufhb&dl=1",
+    "url": ""
+  },
+  {
+    "id": "update-2026-10-03",
+    "title": "сейчас",
+    "description": "Купить админку до ст админа у @holi_russias",
+    "date": "2026-10-03",
+    "pinned": false,
+    "imageUrl": "",
+    "url": ""
+  }
+]
